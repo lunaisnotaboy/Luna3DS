@@ -4,7 +4,7 @@
 
 ## What it is
 
-**Luna3DS** is a modified version of [Luma3DS](https://github.com/AuroraWright/Luma3DS) made for my personal modifications.
+**Luna3DS** is a version of [Luma3DS](https://github.com/AuroraWright/Luma3DS) made specifically for my personal modifications.
 
 ---
 

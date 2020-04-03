@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Hs4NtTy.png" alt="Luna3DS" title="Luna3DS" />
+<img src="https://i.imgur.com/IXFfeLm.png" alt="Luna3DS" title="Luna3DS" />
 </p>
 
 ## What it is

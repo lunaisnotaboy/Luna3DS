@@ -1,24 +1,8 @@
 ---
 name: Bug report
-about: Use this to report bugs you encounter with Luma3DS. Make sure you upload the crash dumps if Luma3DS crashes.
+about: Use this to report bugs you encounter with Luna3DS. Make sure you upload the crash dumps if Luna3DS crashes.
 ---
 
-<!--
--- THIS IS NOT A SUPPORT FORUM! For support go here:
--- Nintendo Homebrew: https://discord.gg/MjzatM8
---
--- Rosalina feature requests go here: https://github.com/AuroraWright/Luma3DS/issues/752
---
--- Also check the Wiki (https://github.com/AuroraWright/Luma3DS/wiki) before making an issue.
---
--- For GBA/DSiWare/DS/AGB_FIRM/TWL_FIRM problems: https://3ds.hacks.guide/troubleshooting
--- If you're using an emu/redNAND try installing anything on it to sysNAND.
--- Please make sure to read "Enable game patching" https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage before posting any issues about the "Enable game patching" option(s).
---
--- Luma updaters that don't support Boot9Strap/Sighax won't work.
--- This is due to support for non-B9S/Sighax entrypoints being dropped.
---
--- Please fill in the placeholders.-->
 **System model:**
 
 [e.g. 2DS, New 3DS, Old 3DS]
@@ -33,7 +17,7 @@ about: Use this to report bugs you encounter with Luma3DS. Make sure you upload 
 
 **Luma3DS version:**
 
-[e.g. 8.1.1 stable or if using nightly/hourly specify the commit like this https://github.com/AuroraWright/Luma3DS/commit/9570e6cbeca53128433abbf5e3473cb8a07fe69e]
+[e.g. 8.1.1 stable or if using nightly/hourly specify the commit like this https://github.com/lunaisnotaboy/Luna3DS/commit/9570e6cbeca53128433abbf5e3473cb8a07fe69e]
 <!--You can check which version you're on in System Settings. It will be on the bottom right of the top screen.-->
 
 

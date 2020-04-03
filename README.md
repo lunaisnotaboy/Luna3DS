@@ -1,5 +1,5 @@
 <p align="center">
-  ![Luna3DS](https://i.imgur.com/Hs4NtTy.png "Luna3DS")
+<img src="https://i.imgur.com/Hs4NtTy.png" alt="Luna3DS" title="Luna3DS" />
 </p>
 
 ## What it is
@@ -24,3 +24,4 @@ This software is licensed under the terms of the GPLv3.
 You can find a copy of the license in the LICENSE.txt file.
 
 Files in the GDB stub are instead double-licensed as MIT or "GPLv2 or any later version", in which case it is specified in the file header.
+
